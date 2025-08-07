@@ -224,6 +224,18 @@ body{
     bottom: 50px;
     color: whitesmoke
 }
+.p16{
+     position: fixed;
+    right: 220px;
+    top: 20px;
+    color: whitesmoke
+}
+.p17{
+     position: fixed;
+    right: 270px;
+    top: 40px;
+    color: whitesmoke
+}
 .link{
     opacity: 0;
     position: fixed;
