@@ -27,7 +27,7 @@
 }
 .pp5{
     position: fixed;
-    top: 240px;
+    top: 160px;
     left: 378px;
 }
 .pp2:hover{
@@ -42,3 +42,4 @@
     right: 40px;
     opacity: 0;
 }
+
