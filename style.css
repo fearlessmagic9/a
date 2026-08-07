@@ -104,22 +104,6 @@ body{
     left: 100px;
     top: 300px;
 }
-.button7{
-    opacity: 0;
-    border: none;
-    cursor: pointer;
-    position: fixed;
-    left: 704px;
-    bottom: 170px;
-}
-.button8{
-    opacity: 0;
-    border: none;
-    cursor: pointer;
-    position: fixed;
-    left: 704px;
-    bottom: 130px;
-}
 .p{
     position: fixed;
     left: 105px;
