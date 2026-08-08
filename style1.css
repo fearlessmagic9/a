@@ -1,3 +1,52 @@
+aside{
+    width: 25%;
+    float: left;
+    padding: 15px;
+}
+section{
+    width: 4%;
+    float: left;
+}
+article{
+    width: 30%;
+    float: left;
+   
+}
+header{
+    padding: 30px;
+}
+.img11{
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    position: fixed;
+    right: 60px;
+    bottom: 40px;
+}
+.img12{
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    position: fixed;
+    right: 260px;
+    bottom: 40px;
+}
+.img13{
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    position: fixed;
+    left: 60px;
+    bottom: 40px;
+}
+.img14{
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    position: fixed;
+    left: 260px;
+    bottom: 40px;
+}
 .h1{
     position: fixed;
     top: 8px;
@@ -28,7 +77,7 @@
 .pp5{
     position: fixed;
     top: 160px;
-    left: 378px;
+    left: 70px;
 }
 .pp2:hover{
     opacity: 3;
@@ -42,4 +91,3 @@
     right: 40px;
     opacity: 0;
 }
-
