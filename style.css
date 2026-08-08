@@ -20,6 +20,7 @@ body{
     position: fixed;
     right: 60px;
     bottom: 80px;
+    
 }
 .img2{
     border: 2px solid;
@@ -28,6 +29,7 @@ body{
     position: fixed;
     right: 260px;
     bottom: 80px;
+    
 }
 .img3{
     border: 2px solid;
@@ -36,6 +38,7 @@ body{
     position: fixed;
     left: 60px;
     bottom: 80px;
+  
 }
 .img4{
     border: 2px solid;
@@ -44,6 +47,24 @@ body{
     position: fixed;
     left: 260px;
     bottom: 80px;
+    
+}
+.img5{
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    position: fixed;
+    left: 460px;
+    bottom: 80px;
+}
+.img6{
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    position: fixed;
+    right: 460px;
+    bottom: 80px;
+    opacity:0;
 }
 .video{
     position: fixed;
@@ -199,4 +220,7 @@ body{
 .link:hover{
     opacity: 3;
     color: whitesmoke
+}
+.img6:hover{
+    opacity:3;
 }
